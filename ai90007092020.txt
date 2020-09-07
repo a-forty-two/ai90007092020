@@ -1,0 +1,95 @@
+
+i did not say he stole my laptop
+
+- denying making statement
+- somebody else 
+- could 've written 
+- she stole 
+- borrowed
+- your laptop
+- shoes 
+
+
+TRaining - Testing
+	-> Training > Testing
+	-> Testing cannot be NEW information
+	-> ALL CASES should be handled in training 
+	-> Don't go out of syllabus 
+
+
+PaaS-> Compute and Storage are DIFF
+	-> BILLED separately as per use
+	-> Machine lEarning is COMPUTE (STORAGE account separate
+	as local storage) 
+	-> scalability rises/falls as users and demand!
+
+IaaS-> infra and network level contrl
+	-> TOO MUCH of management
+	-> wastage -> pay for store/compute that you don't use!
+	-> Scalability takes time-> VMs take time!
+
+CPU or GPU-> which one is faster?
+	
+100 potatoes
+Team1-> 1 person who can eat 5 potatoes/min
+Team2-> 1 person who can eat 1 potato/min but 20 such people!
+who will finish faster?
+T2-> GPU (GBs)-> throughput size is large, slow speed
+	-> comp vision, NLP, audio, neurals, deep learning
+T1-> CPU (MHz, GHz)-> instructions are RISC/CISC, fast speed
+	=> statisitical data, tabular data, machine learn with graphs
+
+
+FPGA-> field programmable gate array
+	(Deployment unit) -> programmable gates
+
+
+Classification-> preselected algos to run on my data
+	-> some algos could be VERY Expensive
+	
+
+185 people-> all of you like chola bhature 
+	-> 50-> fav food?-> 35 chole bhature
+	-> 50-> fav food?-> 26
+	-> 50-> fav food?-> 25 XXX -> samosa-> CROSS VALIDATION
+	PROVED OVERFITTING!!!!
+	-> 50-> fav food?-> 26 
+
+
+
+
+
+	-> Lab access emails -> please check junk folders 
+	also later (post 3pm- will take time to generate)
+	-> some of you may start receiving earlier 
+
+Clean Data:
+	- drop the data if small % (my tolerance 5%)
+	- fix it
+		- replace by mean (statistical data, outside dataset)
+		-median (central tendencies, inside dataset)
+		-mode (most common values) 
+		-custom value
+
+ML is an EXPERIMENT:
+	-> MULTIPLE RUNS
+	-> EACH run is an ML execution
+	-> RUN 1 with Linear reg of HP1 
+	-> RUN 2 with Linear reg of HP2
+	-> RUNx with NN reg of HPx
+
+Resuming 4:20 IST
+
+Read Later:
+
+https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/tools-included
+
+https://github.com/a-forty-two/cylons/blob/master/02_BreastCancerAnalysis.ipynb
+
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score
+
+https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions
+
+https://shinchan-shanuapril.notebooks.azure.com/j/notebooks/textanalysis.ipynb
